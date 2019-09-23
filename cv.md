@@ -1,6 +1,6 @@
 # Profile
 
-Yanina Urbanovich
+**Yanina Urbanovich**
 
 **Contact details:**
 *phone:* +375 (29) 1204029; 
@@ -14,7 +14,7 @@ Currently I am working as an Application Support Analyst at EPAM Systems and res
 
 I want to change my professional area and beacome a developer, because coding was always interesting for me. I coudn't decide what kind of programming language to choose, but finally I opted for javascript as I had html coding experience on my past project. I think that the ability of coding can provide you with the ability of the creation something amazing. Unfortunately, at the moment I have no code examples, but I hope that I fix it by achieving my goal to become a developer.
 
-#S kills
+# Skills
 * IT Service Management (ITSM)‍; 
 * Information Technology Infrastructure Library (ITIL)‍ ; 
 * Software Maintenance‍; 
@@ -31,7 +31,7 @@ I want to change my professional area and beacome a developer, because coding wa
 * CSS; 
 * Content Management Systems (CMS);
 
-#Education
+# Education
 1. Minsk State Linguistic University
 2. Software Testing Introduction (EPAM Systems, Software Testing)
 3. Itransition Software Development Company (A1QA, Tester)
