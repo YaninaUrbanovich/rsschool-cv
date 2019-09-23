@@ -27,4 +27,11 @@ I want to change my professional area and beacome a developer, because coding wa
 *CSS; 
 *Content Management Systems (CMS);
 
+#Education
+1. Minsk State Linguistic University
+2. Software Testing Introduction (EPAM Systems, Software Testing)
+3. Itransition Software Development Company (A1QA, Tester)
+
+
+
 
